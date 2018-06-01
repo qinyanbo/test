@@ -4,3 +4,4 @@ test3 add
 test1 add
 test2 add
 test5 add
+test4 add
